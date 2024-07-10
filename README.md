@@ -2,6 +2,7 @@
 ARDUINO R3 PROJECT
 
 Components PV:
+- Micro: ATmega328P
 
 
 
